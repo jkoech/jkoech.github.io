@@ -3429,11 +3429,11 @@ svg{
 }
 .submit-btn{
 	line-height: 22px;
-	background: #716054;
+	background: #ca8442;
 	text-align: center;
 	display: inline-block;
 	padding: 12px 20px;
-	color: #ca8442;
+	color: #fff;
 	margin-bottom: 10px;
 	letter-spacing: 1.2px;
 	font-weight: 500;
@@ -3460,7 +3460,7 @@ svg{
 .submit-btn:hover::before {
     visibility: visible;
     transition: all 0.4s ease 0s;
-    color: #222222;
+    color: #fff;
     margin-left: 0px;
     opacity: 1;
 }
