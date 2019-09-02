@@ -437,14 +437,14 @@ blockquote {
 #mainNav .navbar-nav .nav-item .nav-link {
     font-weight: 500;
     padding: 30px 10px;
-    color: #ca8442;
+    color: #716054;
     font-size: 15px;
     margin: 0 5px;
     border-top: solid transparent 8px;
 }
 #mainNav .navbar-nav .nav-item .nav-link:hover,#mainNav li.nav-item.active .nav-link {
-	color: #716054;
-	border-color: #716054;
+	color: #ca8442;
+	border-color: #ca8442;
 }
 
 .navbar-dark .navbar-toggler {
